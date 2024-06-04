@@ -1,6 +1,8 @@
+![Capa linkedin - ARCTURUS](https://github.com/ArcturoTech/ArcturoTech/assets/171603010/85d96d6b-2cb4-4f4f-8b6a-a70cd0e12403)
+
 <div align="center">
   <a href="https://github.com/Fabricio0101">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricio0101&show_icons=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArcturoTech&show_icons=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&include_all_commits=true&count_private=true"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcturoTech&layout=compact&langs_count=7&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
     </div>
   
