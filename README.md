@@ -3,8 +3,6 @@
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricio0101&show_icons=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&include_all_commits=true&count_private=true"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcturoTech&layout=compact&langs_count=7&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
     </div>
-
-<img src="https://github.com/Fabricio0101/Fabricio0101/assets/94193822/728dea49-cc3b-4e19-a9c9-2abc73cf2590" width="100%" height="8px" style="max-width: 100%;" />
   
   ### Ferramentas
   
