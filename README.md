@@ -1,4 +1,4 @@
-![Capa linkedin - ARCTURUS](![Image](https://github.com/user-attachments/assets/395b7e58-7247-4423-95f2-8936b7a445fd))
+![Capa linkedin - ARCTURUS](https://github.com/user-attachments/assets/395b7e58-7247-4423-95f2-8936b7a445fd)
 
 <div align="center">
   <a href="https://github.com/Fabricio0101">
